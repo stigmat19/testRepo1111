@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 10000px;
+    background: blue;
+}
+.aaa{
+    background-color: red;
+    height: 100vh;
+}
+p{
+    color: black;
+}
+.bbb{
+    color: blue;
+}
